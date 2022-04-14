@@ -14,3 +14,6 @@ $ make
 `$ ./passwdgen`
 or
 `$ ./passwdgen <password length in integer>`
+
+To remove binary file after comilation
+`make clean`
